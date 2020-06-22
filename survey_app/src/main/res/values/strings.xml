@@ -78,7 +78,7 @@
 <string name="username">Username</string>
 <string name="view_hierarchy">Go To Prompt</string>
 <string name="general_preferences">Change Settings</string>
-<string name="click_to_web">Tap to visit http://opendatakit.org</string>
+<string name="click_to_web">Tap to visit https://odk-x.org</string>
 <string name="client">Client</string>
 <string name="show_splash">Show Splash Screen</string>
 <string name="show_splash_summary">Shows when application starts</string>
@@ -87,7 +87,7 @@
 <string name="select_another_image">Select Another Image</string>
 <string name="use_odk_default">Use Default Image</string>
 <string name="change_splash_path">Change Image</string>
-<string name="app_url">http://opendatakit.org</string>
+<string name="app_url">https://odk-x.org</string>
 <string name="go_to_location">Go to Location</string>
 <string name="change_formlist_url">Form List Path (appended to Server URL)</string>
 <string name="protocol">Server Platform</string>
