@@ -24,12 +24,14 @@
 		android:layout_height="wrap_content"
 		android:gravity="center_vertical|center_horizontal"
 		android:paddingBottom="5dip">
+
 		<ImageView
 			android:id="@+id/app_icon"
-			android:src="@drawable/snotes"
+			android:layout_width="72dip"
+			android:layout_height="63dp"
 			android:contentDescription="@string/app_name"
-			android:layout_height="72dip"
-			android:layout_width="72dip" />
+			android:src="@drawable/snotes" />
+
 		<LinearLayout
 			android:orientation="vertical"
 			android:layout_width="wrap_content"
