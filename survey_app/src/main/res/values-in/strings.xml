@@ -13,7 +13,7 @@
 <resources>
 <string name="accept_location">Simpan lokasi</string>
 <string name="activity_not_found">Tidak ditemukan aktifitas untuk menyelesaikan: %s</string>
-<string name="app_name">ODK-X Survey</string>
+<string name="app_name">Sentinela Survey</string>
 <string name="cancel">Batal</string>
 <string name="cancel_location">Batal</string>
 <string name="change_language">Ubah bahasa</string>

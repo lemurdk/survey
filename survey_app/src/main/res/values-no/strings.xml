@@ -13,7 +13,7 @@
 <resources>
 <string name="accept_location">Registrer posisjon</string>
 <string name="activity_not_found">Fant ingen handling: %s</string>
-<string name="app_name">ODK-X Survey</string>
+<string name="app_name">Sentinela Survey</string>
 <string name="cancel">Avbryt</string>
 <string name="cancel_location">Avbryt</string>
 <string name="change_language">Endre språk</string>

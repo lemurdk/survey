@@ -13,7 +13,7 @@
 <resources>
 <string name="accept_location">"Записать местоположение"</string>
 <string name="activity_not_found">No activity found to handle: %s</string>
-<string name="app_name">ODK-X Survey</string>
+<string name="app_name">Sentinela Survey</string>
 <string name="cancel">Отменить</string>
 <string name="cancel_location">Отменить</string>
 <string name="change_language">Сменить язык</string>

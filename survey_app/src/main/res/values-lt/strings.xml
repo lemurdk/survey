@@ -13,7 +13,7 @@
 <resources>
 <string name="accept_location">Įrašyti padėtį</string>
 <string name="activity_not_found">Nerasta, kas galėtų valdyti: %s</string>
-<string name="app_name">ODK-X Survey</string>
+<string name="app_name">Sentinela Survey</string>
 <string name="cancel">Atšaukti</string>
 <string name="cancel_location">Atšaukti</string>
 <string name="change_language">Pakeisti kalbą</string>
