@@ -20,7 +20,6 @@
 <string name="change_password">Senha</string>
 <string name="change_server_url">URL do Servidor</string>
 <string name="change_username">Usuário Sapiens</string>
-<string name="change_username">Usuário Sapiens</string>
 <string name="default_completed">Finalizado como Padrão</string>
 <string name="default_completed_summary">Marcar formulário finalizado como padrão</string>
 <string name="default_server_url">https://opendatakit-2.appspot.com</string>
