@@ -6,3 +6,4 @@ local.properties
 *.iml
 survey_app/fabric.properties
 odkanalytics/
+survey_app/demoBasic
