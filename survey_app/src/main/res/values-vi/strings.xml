@@ -13,7 +13,7 @@
 <resources>
 <string name="accept_location">Ghi lại vị trí</string>
 <string name="activity_not_found">Không có hành động phù hợp với: %s</string>
-<string name="app_name">Sentinela Survey</string>
+<string name="app_name">Sapiens Survey</string>
 <string name="cancel">Huỷ</string>
 <string name="cancel_location">Huỷ</string>
 <string name="change_language">Đổi ngôn ngữ</string>

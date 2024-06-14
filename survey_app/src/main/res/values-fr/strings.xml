@@ -13,7 +13,7 @@ License.
 <resources>
 <string name="accept_location">Enregistrer lieu</string>
 <string name="activity_not_found">Pas d\'activité pour gérer: %s</string>
-<string name="app_name">Sentinela Survey</string>
+<string name="app_name">Sapiens Survey</string>
 <string name="cancel">Annuler</string>
 <string name="cancel_location">Annuler</string>
 <string name="change_language">Changer la Langue</string>

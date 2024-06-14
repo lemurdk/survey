@@ -13,7 +13,7 @@
 <resources>
 <string name="accept_location">Positie vastleggen</string>
 <string name="activity_not_found">Geen programma gevonden voor: %s</string>
-<string name="app_name">Sentinela Survey</string>
+<string name="app_name">Sapiens Survey</string>
 <string name="cancel">Terug</string>
 <string name="cancel_location">Terug</string>
 <string name="change_language">Taal wijzigen</string>

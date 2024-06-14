@@ -16,7 +16,7 @@
   <!-- start pre restructuring -->
   <string name="accept_location">Obtener localización</string>
   <string name="activity_not_found">No se ha encontrado ninguna actividad para controlar: %s</string>
-  <string name="app_name">Sentinela Survey</string>
+  <string name="app_name">Sapiens Survey</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_location">Cancelar</string>
   <string name="change_language">Cambiar el Idioma</string>
